@@ -10,7 +10,7 @@ Thanks to all [contributors](https://github.com/mostafahussein/awesome-security-
 - [Web Applications](#web-applications)
 
 ## Web Applications
-* Mirror for [securitychecklist.org](https://securitychecklist.org) - If you're launching a new website and have security in mind, this is a good starting point
+* Mirror for [securitychecklist.org](https://securitychecklist.org) - A set of clear TODO's for hosting secure sites, featuring TLS, strong ciphers, security headers, fail2ban, SSH configs, etc...
   * [x] Is the website only served over https?
   ```bash
   Test:
