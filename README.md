@@ -6,7 +6,7 @@ Awesome Security Checklist [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
 - [Web Applications](#web-applications)
 
 ## Web Applications
-* Mirror for [securitychecklist.org](https://securitychecklist.org)
+* Mirror for [securitychecklist.org](https://securitychecklist.org) - If you're launching a new website and have security in mind, this is a good starting point
   * [x] Is the website only served over https?
   ```bash
   Test:
@@ -115,3 +115,4 @@ Awesome Security Checklist [![Awesome](https://cdn.rawgit.com/sindresorhus/aweso
   * [x] Are there unit tests (say, using [Selenium](http://www.seleniumhq.org/)) which show that one authenticated user cannot access another user's content?
   * [x] Have you made sure that database passwords, server signing keys, and hash salts are not checked into source control?
   * [x] Do you have an account recovery flow? Delete it immediately.
+* [Wordpress Security Checklist](https://github.com/RafaelFunchal/wordpress-security-checklist/blob/master/items.md) - A simple checklist to improve the security of your WordPress installation
