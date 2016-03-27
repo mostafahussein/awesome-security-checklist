@@ -1,6 +1,10 @@
 Awesome Security Checklist [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===============
 
+Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/mostafahussein/awesome-security-checklist/blob/master/CONTRIBUTING.md) first.
+
+Thanks to all [contributors](https://github.com/mostafahussein/awesome-security-checklist/graphs/contributors), you're awesome and this wouldn't be possible without you!
+
 ## Table of Contents
 
 - [Web Applications](#web-applications)
