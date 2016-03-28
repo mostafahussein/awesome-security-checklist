@@ -119,4 +119,5 @@ Thanks to all [contributors](https://github.com/mostafahussein/awesome-security-
   * [x] Are there unit tests (say, using [Selenium](http://www.seleniumhq.org/)) which show that one authenticated user cannot access another user's content?
   * [x] Have you made sure that database passwords, server signing keys, and hash salts are not checked into source control?
   * [x] Do you have an account recovery flow? Delete it immediately.
-* [Wordpress Security Checklist](https://github.com/RafaelFunchal/wordpress-security-checklist/blob/master/items.md) - A simple checklist to improve the security of your WordPress installation
+* [Wordpress Security Checklist](https://github.com/RafaelFunchal/wordpress-security-checklist/blob/master/items.md) - A simple checklist to improve the security of your WordPress installation.
+* [NodeJS Security Checklist](https://blog.risingstack.com/node-js-security-checklist/) - A blog post about NodeJS Security by [Gergely Nemeth](https://github.com/gergelyke).
