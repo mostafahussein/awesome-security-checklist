@@ -8,9 +8,12 @@ Thanks to all [contributors](https://github.com/mostafahussein/awesome-security-
 ## Table of Contents
 
 - [Web Applications](#web-applications)
+    * Basic Security Checklist
+    * Wordpress Security Checklist
+    * NodeJS Security Checklist
 
 ## Web Applications
-* Mirror for [securitychecklist.org](https://securitychecklist.org) - A set of clear TODO's for hosting secure sites, featuring TLS, strong ciphers, security headers, fail2ban, SSH configs, etc...
+* Basic Security Checklist - Mirror for [securitychecklist.org](https://securitychecklist.org). A set of clear TODO's for hosting secure sites, featuring TLS, strong ciphers, security headers, fail2ban, SSH configs, etc..
   * [x] Is the website only served over https?
   ```bash
   Test:
