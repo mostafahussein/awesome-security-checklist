@@ -60,7 +60,7 @@ Thanks to all [contributors](https://github.com/mostafahussein/awesome-security-
       |       TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 - strong
       |     compressors:
       |       NULL
-      |_  least strength: strong 
+      |_  least strength: strong
   ```
   * [x] Is the Diffie-Hellman prime at least 4096 bits?
   ```bash
@@ -73,7 +73,7 @@ Thanks to all [contributors](https://github.com/mostafahussein/awesome-security-
   Test:
       $ curl -s -I https://example.org | grep '^X-Frame-Options'
       X-Frame-Options: SAMEORIGIN
-      $ curl -s -I https://example_2.org | grep '^X-Frame-Options' 
+      $ curl -s -I https://example_2.org | grep '^X-Frame-Options'
       X-Frame-Options: DENY # Also acceptable
   ```
   * [x] Have you ensured that the Internet Explorer content sniffer is disabled?
