@@ -11,6 +11,7 @@ Thanks to all [contributors](https://github.com/mostafahussein/awesome-security-
     * Basic Security Checklist
     * Wordpress Security Checklist
     * NodeJS Security Checklist
+    * Ruby on Rails Security Checklist
 
 ## Web Applications
 * Basic Security Checklist - Mirror for [securitychecklist.org](https://securitychecklist.org). A set of clear TODO's for hosting secure sites, featuring TLS, strong ciphers, security headers, fail2ban, SSH configs, etc..
@@ -124,3 +125,4 @@ Thanks to all [contributors](https://github.com/mostafahussein/awesome-security-
   * [x] Do you have an account recovery flow? Delete it immediately.
 * [Wordpress Security Checklist](https://github.com/RafaelFunchal/wordpress-security-checklist/blob/master/items.md) - A simple checklist to improve the security of your WordPress installation.
 * [NodeJS Security Checklist](https://blog.risingstack.com/node-js-security-checklist/) - A blog post about NodeJS Security by [Gergely Nemeth](https://github.com/gergelyke).
+* [Ruby on Rails Security Checklist](https://blog.codeship.com/preproduction-checklist-for-a-rails-app/) - Preproduction security checklist for a rails app by [Heiko Webers](https://twitter.com/bauland42)
